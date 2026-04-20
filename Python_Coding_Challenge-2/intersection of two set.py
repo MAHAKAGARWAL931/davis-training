@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Define two sets
 set1 = {1, 2}
 set2 = {2, 3}
@@ -6,4 +7,14 @@ set2 = {2, 3}
 result = set1 & set2
 
 # Display result
+=======
+# Define two sets
+set1 = {1, 2}
+set2 = {2, 3}
+
+# Find common elements
+result = set1 & set2
+
+# Display result
+>>>>>>> 7ec5fbbffc0cd5a14d753d3044fda9e8e0f41ac7
 print("Intersection =", result)
